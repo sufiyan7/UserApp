@@ -22,6 +22,7 @@ gem 'bootstrap', '~> 4.4.1'
 
 gem 'jquery-rails'
 
+gem 'jquery-datatables-rails', '~> 3.4.0'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
